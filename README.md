@@ -17,10 +17,6 @@ While this might sound a bit serious, remember, this is a pet project! It's all 
 1. **Teleportation**: Quickly teleport to a saved location or a set coordinate.
 2. **Auto-Fishing**: Let the mod do the fishing for you while you sit back and relax.
 
-## Contribution
-
-Feel free to fork, make pull requests, or submit issues. This project is all about community collaboration and learning!
-
 ## Disclaimer
 
 This project is not affiliated with Mojang or Minecraft. Use at your own risk in online servers, as modifications might be against their policies. Always respect the terms of service.
